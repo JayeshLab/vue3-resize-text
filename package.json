@@ -1,7 +1,37 @@
 {
   "name": "vue3-resize-text",
   "version": "0.1.0",
-  "private": true,
+  "description": "Vue 3 Resize Text makes font auto resizing on responsive layout",
+  "author": "JayeshLab <helloiamjayesh@gmail.com>",
+  "main": "dist/vue3-resize-text.common.js",
+  "unpkg": "dist/vue3-resize-text.umd.min.js",
+  "files": [
+    "dist/**",
+    "src/*",
+    "*.json",
+    "*.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/JayeshLab/vue3-resize-text/issues"
+  },
+  "homepage": "https://github.com/JayeshLab/vue3-resize-text/#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayeshLab/vue3-resize-text.git"
+  },
+  "keywords": [
+    "text",
+    "resize",
+    "font",
+    "responsive",
+    "fit",
+    "rescale",
+    "vue",
+    "vue.js",
+    "vue3",
+    "directives"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
