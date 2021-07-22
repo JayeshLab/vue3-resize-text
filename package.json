@@ -7,8 +7,8 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
-    "build:docs": "vue-cli-service build --dest docs --name vue-resize-text src/main.js",
-    "lib": "vue-cli-service build --target lib --name vue-resize-text src/index.js"
+    "build:docs": "vue-cli-service build --dest docs --name vue3-resize-text src/main.js",
+    "lib": "vue-cli-service build --target lib --name vue3-resize-text src/index.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",

@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["vue-resize-text"] = factory();
+		exports["vue3-resize-text"] = factory();
 	else
-		root["vue-resize-text"] = factory();
+		root["vue3-resize-text"] = factory();
 })((typeof self !== 'undefined' ? self : this), function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
