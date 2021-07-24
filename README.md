@@ -7,7 +7,7 @@ It makes the font-size flexible on fluid or responsive layout.
 
 [![npm](https://img.shields.io/npm/v/vue3-resize-text.svg?style=flat-square)](https://www.npmjs.com/package/vue3-resize-text)
 [![npm](https://img.shields.io/npm/dt/vue3-resize-text.svg?style=flat-square)](https://www.npmjs.com/package/vue3-resize-text)
-[![Build Status](https://travis-ci.org/JayeshLab/vue3-resize-text.svg?branch=master)](https://travis-ci.org/JayeshLab/vue3-resize-text)
+[![Build Status](https://www.travis-ci.com/JayeshLab/vue3-resize-text.svg?branch=master&status=passed)](https://travis-ci.org/JayeshLab/vue3-resize-text)
 [![npm](https://img.shields.io/npm/l/vue3-resize-text.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 [Live Demo](https://jayeshlab.github.io/vue3-resize-text/index.html): Resize the browser viewport to see the effect in action
